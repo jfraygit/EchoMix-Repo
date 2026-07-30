@@ -1,6 +1,6 @@
 # EchoMix — Plugin Repository
 
-This repo hosts the distribution files for **EchoMix**, a Dalamud plugin for Final Fantasy XIV. It does not contain the plugin's source code.
+This repo hosts the distribution files for **EchoMix**, a Dalamud plugin for Final Fantasy XIV.
 
 ## Installing
 
@@ -11,6 +11,6 @@ This repo hosts the distribution files for **EchoMix**, a Dalamud plugin for Fin
    ```
 3. Save, then find **EchoMix** in the plugin installer and install it.
 
-## Learn more
+## Website
 
 [echomix.app](https://echomix.app)
